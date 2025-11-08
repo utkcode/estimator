@@ -11,9 +11,6 @@ ENV/
 dist/
 build/
 .env
-uploads/
-projects/
-scope_config/
 *.log
 
 
