@@ -15,7 +15,5 @@ uploads/
 projects/
 scope_config/
 *.log
-*.db
-*.sqlite
-*.sqlite3
+
 
