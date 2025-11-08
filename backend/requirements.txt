@@ -1,0 +1,10 @@
+Flask
+flask-cors
+google-generativeai
+pandas
+openpyxl
+werkzeug
+python-docx
+PyPDF2
+
+
